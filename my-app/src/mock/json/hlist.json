@@ -1,0 +1,43 @@
+[
+    {   "id":"g1",
+        "title":"新鲜水果",
+        "img":"../../../static/fruitimg/f1.png"
+    },
+    {   "id":"g2",
+        "title":"新鲜水果",
+        "img":"../../../static/fruitimg/f1.png"
+    },
+    {   "id":"g3",
+        "title":"新鲜水果",
+        "img":"../../../static/fruitimg/f1.png"
+    },
+    {   "id":"g4",
+        "title":"新鲜水果",
+        "img":"../../../static/fruitimg/f1.png"
+    },
+    {   "id":"g5",
+        "title":"新鲜水果",
+        "img":"../../../static/fruitimg/f1.png"
+    },
+    {   "id":"g6",
+        "title":"新鲜水果",
+        "img":"../../../static/fruitimg/f1.png"
+    },
+    {   "id":"g7",
+        "title":"新鲜水果",
+        "img":"../../../static/fruitimg/f1.png"
+    },
+    
+    {   "id":"g8",
+        "title":"新鲜水果",
+        "img":"../../../static/fruitimg/f1.png"
+    },
+    {   "id":"g9",
+        "title":"新鲜水果",
+        "img":"../../../static/fruitimg/f1.png"
+    },
+    {   "id":"g10",
+        "title":"新鲜水果",
+        "img":"../../../static/fruitimg/f1.png"
+    }
+]

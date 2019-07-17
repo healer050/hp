@@ -1,6 +1,6 @@
 <template>
     <div>
-    分类
+        夏日狂欢
     </div>
 </template>
 <script>

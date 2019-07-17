@@ -1,0 +1,68 @@
+{
+    "fruit":[
+        {
+            "title":"夏日狂欢",
+            "banner-img":"../../../static/fruitimg/fruit-banner.png",
+            "special-offer":[
+               { "title":"限时特价",
+                 "detail":[
+                    {
+                        "details_title":"凡谷归真凡谷1号番茄500g",
+                        "scale":"500",
+                        "price":"9.9",
+                        "company":"g/份",
+                        "images":[
+                            "1.jpg",
+                            "2.jpg",
+                            "3.jpg",
+                            "4.jpg",
+                            "5.jpg"
+                        ],
+                        "content":"适合生吃的番茄，1360小时的自然生长，自然成熟，富含维生素，热量低，吃的放心。",
+                        "comment":[
+                            {
+                                "username":"药**8",
+                                "time":"2019-07-13",
+                                "img":"http://www.baidu.com/1.jpg",
+                                "content":"很不错"
+                            },
+                            {
+                                "username":"欧**芬123",
+                                "time":"2019-07-14",
+                                "img":"http://www.baidu.com/2.jpg",
+                                "content":"我觉得还不错哦"
+                            }
+                        ],
+                        "brand":"凡谷归真",
+                        "place":"云南省楚雄彝族自治州",
+                        "Storage":"冷藏",
+                        "details_images":[
+                            "1.jpg",
+                            "2.jpg",
+                            "3.jpg"
+                        ]
+
+                    }
+                ]
+
+            }
+            ]
+
+        },
+         {
+            "title":"热带风情",
+            "banner-img":"../../../static/fruitimg/fruit-banner.png"
+        },
+         {
+            "title":"当季时令",
+            "banner-img":"../../../static/fruitimg/fruit-banner.png"
+        },
+         {
+            "title":"桃杏李",
+            "banner-img":"../../../static/fruitimg/fruit-banner.png"
+        }
+
+    ]
+    
+
+}

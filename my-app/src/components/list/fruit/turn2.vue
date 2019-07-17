@@ -1,6 +1,6 @@
 <template>
     <div>
-    分类
+        热带风情
     </div>
 </template>
 <script>

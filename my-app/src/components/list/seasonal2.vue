@@ -1,6 +1,6 @@
 <template>
     <div>
-    分类
+        时令蔬菜
     </div>
 </template>
 <script>

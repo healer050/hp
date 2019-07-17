@@ -1,6 +1,6 @@
 <template>
     <div>
-    分类
+        肉禽蛋品
     </div>
 </template>
 <script>
